@@ -1,6 +1,6 @@
-# Kiibohd kll compiler
+# Infinity ErgoDox layout and Kiibohd kll compiler
 
-My layout for the [Infinity Ergodox](http://input.club/devices/infinity-ergodox) keyboard.
+My layout for the [Infinity ErgoDox](http://input.club/devices/infinity-ergodox) keyboard.
 
 ![Keyboard layout](layout.png)
 

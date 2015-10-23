@@ -1,0 +1,35 @@
+Author = "Frederic Merizen 2015";
+Base = "Blank";
+Date = "2015-10-23";
+Generator = "KIICONF 0.2";
+KLL = "0.3c";
+Layout = "Default";
+Name = "Fred";
+Version = "0.1";
+
+U"FUNCTION1" : U"DELETE";
+U"BACKSLASH" : U"RALT";
+U"TAB" : U"LSHIFT";
+U"LALT" : U"INSERT";
+U"LCTRL" : U"LGUI";
+U"FUNCTION2" : U"FUN1";
+U"LSHIFT" : U"LCTRL";
+U"DELETE" : U"ENTER";
+U"BACKSPACE" : U"SPACE";
+U"FUNCTION5" : U"SPACE";
+U"FUNCTION4" : U"SLASH";
+U"FUNCTION3" : U"BACKSLASH";
+U"LGUI" : U"LALT";
+U"FUNCTION6" : U"LCK2";
+U"LBRACE" : U"TAB";
+U"RBRACE" : U"RALT";
+U"QUOTE" : U"RSHIFT";
+U"RALT" : U"PRINTSCREEN";
+U"RCTRL" : U"RGUI";
+U"FUNCTION7" : U"FUN1";
+U"SLASH" : U"QUOTE";
+U"RSHIFT" : U"RCTRL";
+U"ENTER" : U"DELETE";
+U"SPACE" : U"BACKSPACE";
+U"RGUI" : U"LALT";
+

@@ -1,8 +1,8 @@
 {
     "header": {
-        "Author": "HaaTa (Jacob Alexander) 2015",
+        "Author": "Frederic Merizen 2015",
         "Base": "Blank",
-        "Date": "2015-09-12",
+        "Date": "2015-10-23",
         "Generator": "KIICONF 0.2",
         "KLL": "0.3c",
         "Layout": "Default",
@@ -117,8 +117,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUALS",
-                    "label": "="
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -468,8 +468,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -481,8 +481,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             },
             "w": 4,
@@ -505,12 +505,7 @@
         {
             "code": "0x29",
             "h": 4,
-            "layers": {
-                "0": {
-                    "key": "SLASH",
-                    "label": "/"
-                }
-            },
+            "layers": {},
             "w": 4,
             "x": 14,
             "y": 16
@@ -520,8 +515,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "SLASH",
+                    "label": "/"
                 }
             },
             "w": 4,
@@ -533,8 +528,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             },
             "w": 4,
@@ -546,8 +541,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             },
             "w": 4,
@@ -1096,8 +1091,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -1124,7 +1119,12 @@
         {
             "code": "0x28",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "DELETE",
+                    "label": "DEL"
+                }
+            },
             "w": 4,
             "x": 50,
             "y": 17
@@ -1141,6 +1141,10 @@
             "code": "0x2A",
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "BACKSLASH",
+                    "label": "\\"
+                },
                 "2": {
                     "key": "P.",
                     "label": "P."
@@ -1154,6 +1158,10 @@
             "code": "0x2B",
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "SLASH",
+                    "label": "/"
+                },
                 "2": {
                     "key": "PENTER",
                     "label": "P\u21b5"
@@ -1168,8 +1176,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "EQUALS",
+                    "label": "="
                 }
             },
             "w": 4,

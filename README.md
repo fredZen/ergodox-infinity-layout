@@ -14,7 +14,7 @@ The layout files are in kiibohd/*.kll.
 
 ## Workflow
 
-My workflow uses the (dockerized version)[https://hub.docker.com/r/fmerizen/ergodox-infinity-layout/] of the KLL compiler. First make sure that you have a working docker installation.
+My workflow uses the [dockerized version](https://hub.docker.com/r/fmerizen/ergodox-infinity-layout/) of the KLL compiler. First make sure that you have a working docker installation.
 
 1. Edit fred-*.kll to my liking
 2. If I added or removed a layer, I need to change the value of PartialMaps in kiibohd/fred.bash accordingly

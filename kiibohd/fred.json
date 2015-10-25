@@ -6,7 +6,7 @@
         "Generator": "KIICONF 0.2",
         "KLL": "0.3c",
         "Layout": "Default",
-        "Name": "MDErgo1",
+        "Name": "Fred",
         "Version": "0.1"
     },
     "matrix": [
@@ -15,8 +15,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESC",
-                    "label": "ESC"
+                    "key": "BACKTICK",
+                    "label": "`"
                 },
                 "1": {
                     "key": "F11",
@@ -228,8 +228,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "SLASH",
+                    "label": "/"
                 }
             },
             "w": 6,
@@ -333,12 +333,7 @@
         {
             "code": "0x1B",
             "h": 4,
-            "layers": {
-                "0": {
-                    "key": "INSERT",
-                    "label": "INS"
-                }
-            },
+            "layers": {},
             "w": 4,
             "x": 30,
             "y": 18
@@ -348,8 +343,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "INSERT",
+                    "label": "INS"
                 }
             },
             "w": 4,
@@ -361,8 +356,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -468,8 +463,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             },
             "w": 4,
@@ -505,7 +500,12 @@
         {
             "code": "0x29",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                }
+            },
             "w": 4,
             "x": 14,
             "y": 16
@@ -541,8 +541,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
@@ -799,8 +799,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "1": {
                     "key": "RBRACE",
@@ -932,12 +932,7 @@
         {
             "code": "0x1B",
             "h": 4,
-            "layers": {
-                "0": {
-                    "key": "PRINTSCREEN",
-                    "label": "PRSC"
-                }
-            },
+            "layers": {},
             "w": 4,
             "x": 38,
             "y": 18
@@ -947,8 +942,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
                 }
             },
             "w": 4,
@@ -960,8 +955,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -1091,8 +1086,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             },
             "w": 4,
@@ -1119,12 +1114,7 @@
         {
             "code": "0x28",
             "h": 4,
-            "layers": {
-                "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
-                }
-            },
+            "layers": {},
             "w": 4,
             "x": 50,
             "y": 17
@@ -1132,7 +1122,12 @@
         {
             "code": "0x29",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                }
+            },
             "w": 4,
             "x": 54,
             "y": 16
@@ -1176,8 +1171,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUALS",
-                    "label": "="
+                    "key": "RGUI",
+                    "label": "RGUI"
                 }
             },
             "w": 4,
